@@ -1,0 +1,40 @@
+#main {
+    text-align: center;
+    background-color: rgb(27, 63, 42);
+    color: white;
+    font-family: Calibri, Helvetica, sans-serif;
+}
+
+#title {
+    font-size: 48px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3.headings {
+    font-size: 28px;
+    display: inline-table;
+    
+}
+
+ul, ol {
+    display: inline-table;
+}
+
+li {
+    text-align: left;
+}
+
+a:visited {
+    color: white;
+}
+
+
+
