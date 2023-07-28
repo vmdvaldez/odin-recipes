@@ -1,17 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
 #main {
     text-align: center;
-    background-color: rgb(27, 63, 42);
-    color: white;
+    background-color: #5F506B;
+    color: #76949F;
     font-family: Calibri, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 #title {
     font-size: 48px;
+    color: #86BBBD;
+}
+
+.content {
+    background-color: #533747;
+    padding: 15px 0px;
+    margin: 0px auto;
+    width: 60%;
+}
+
+
+.content-steps h3{
+    margin: 0px;
 }
 
 img {
     width: 400px;
     height: auto;
+    padding: 10px;
 }
 
 h2 {
@@ -20,20 +39,20 @@ h2 {
 
 h3.headings {
     font-size: 28px;
-    display: inline-table;
-    
+    color: #86BBBD;
 }
 
-ul, ol {
-    display: inline-table;
-}
 
 li {
     text-align: left;
 }
 
+a {
+    color: #76949F;
+}
+
 a:visited {
-    color: white;
+    color: #76949F;
 }
 
 
